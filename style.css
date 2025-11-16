@@ -1,0 +1,28 @@
+body { 
+	background: #353630; 
+	font-family: Arial;
+}
+
+h1 {
+	color: #c4ac0c; 
+}
+
+h2 {
+	color: #c4ac0c; 
+}
+
+strong {
+	color: #c4ac0c;
+}
+
+p {
+	color: #e7ed98;
+}	
+
+li {
+	color: #e7ed98;
+}
+
+a {
+	color: #fcfcfa;
+}
